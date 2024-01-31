@@ -3,7 +3,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
+This project is built taking into account these task materials:
+- [figma design](https://www.figma.com/file/bX2vec3Dn1ZDAIAVdQBWg0/Fruit-Store?type=design&node-id=43-10&mode=design&t=6bIPSvSrcCrvrbaR-0)
+- [axshare interactive description](https://5io3rb.axshare.com/#id=2l0drb&p=page_1)
 
+Such technologies/resources were used:
+- React.js
+- TypeScript
+- Redux-toolkit
+- MUI components
+- [REST Countries API](https://restcountries.com/)
+
+Development of unit-tests was not included into the task as well as making the app mobile friendly or responsive.
 
 ## Available Scripts
 
